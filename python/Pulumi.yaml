@@ -8,4 +8,4 @@ runtime:
 packages:
   storage: 
     source: github.com/pierskarsenbarg/storage
-    version: 8aab573
+    version: 2762204

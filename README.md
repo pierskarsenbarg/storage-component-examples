@@ -4,9 +4,9 @@ This repo holds examples of Pulumi programs that reference the [Storage componen
 
 There are examples for the following languages:
 
-* YAML
-* Python
-* Typescript
+* [YAML](./yaml/README.md)
+* [Python](./python/README.md)
+* [Typescript](./typescript/README.md)
 
 (The above links will take you through to the README for that language which have instructions on how to run each example program)
 

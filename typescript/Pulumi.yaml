@@ -4,7 +4,8 @@ runtime:
   name: nodejs
   options:
     packagemanager: npm
-config:
-  pulumi:tags:
-    value:
-      pulumi:template: azure-typescript
+packages:
+  storage: 
+    source: github.com/pierskarsenbarg/storage
+    version: 8aab573
+    

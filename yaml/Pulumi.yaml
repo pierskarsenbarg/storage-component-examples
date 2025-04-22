@@ -2,7 +2,9 @@ name: storage-component-yaml
 description: A minimal Azure Native Pulumi YAML program
 runtime: yaml
 packages:
-  storage: github.com/pierskarsenbarg/storage
+  storage: 
+    source: github.com/pierskarsenbarg/storage
+    version: 8aab573
 resources:
   pkresourceGroup:
     type: azure-native:resources:ResourceGroup

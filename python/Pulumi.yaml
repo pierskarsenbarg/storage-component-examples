@@ -5,3 +5,7 @@ runtime:
   options:
     toolchain: pip
     virtualenv: venv
+packages:
+  storage: 
+    source: github.com/pierskarsenbarg/storage
+    version: 8aab573

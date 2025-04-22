@@ -1,0 +1,7 @@
+name: storage-component-python
+description: A minimal Azure Native Python Pulumi program
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv

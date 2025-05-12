@@ -3,6 +3,7 @@ module storage-component-go
 go 1.24.1
 
 require (
+	github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage v0.0.0-00010101000000-000000000000
 	github.com/pulumi/pulumi-azure-native-sdk/resources/v2 v2.42.1
 	github.com/pulumi/pulumi/sdk/v3 v3.169.0
 )

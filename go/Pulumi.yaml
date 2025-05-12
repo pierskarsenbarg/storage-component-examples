@@ -1,0 +1,9 @@
+name: storage-component-go
+description: A minimal Azure Native Go Pulumi program
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-go
+packages:
+  storage: github.com/pierskarsenbarg/storage@0.0.0-x2762204eaf5970252cd01b1d38107a11b515b0c3

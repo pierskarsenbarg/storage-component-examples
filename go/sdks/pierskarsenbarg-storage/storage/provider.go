@@ -7,7 +7,7 @@ import (
 	"context"
 	"reflect"
 
-	"github.com/pierskarsenbarg/pulumi-storage/sdk/go/storage/internal"
+	"github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage/internal"
 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 )
 

@@ -1,4 +1,4 @@
-module storage
+module github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage
 
 go 1.24.1
 

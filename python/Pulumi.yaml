@@ -7,5 +7,5 @@ runtime:
     virtualenv: venv
 packages:
   storage: 
-    source: github.com/pierskarsenbarg/storage
+    source: github.com/pierskarsenbarg/storage-components
     version: 2762204

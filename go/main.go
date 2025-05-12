@@ -1,7 +1,7 @@
 package main
 
 import (
-	storage "github.com/pierskarsenbarg/storage/sdk"
+	storage "github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage"
 
 	"github.com/pulumi/pulumi-azure-native-sdk/resources/v2"
 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"

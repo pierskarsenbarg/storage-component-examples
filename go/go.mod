@@ -91,6 +91,6 @@ require (
 	lukechampine.com/frand v1.4.2 // indirect
 )
 
-replace github.com/pierskarsenbarg/storage/sdk => ./sdks/pierskarsenbarg-storage/storage
+replace github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage => ./sdks/pierskarsenbarg-storage/storage
 
-require github.com/pierskarsenbarg/storage/sdk v0.0.0-20250422151436-2762204eaf59
+require github.com/pierskarsenbarg/storage-component-examples/go/sdks/pierskarsenbarg-storage/storage v0.0.0

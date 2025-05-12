@@ -1,6 +1,0 @@
-{
-  "resource": true,
-  "name": "storage",
-  "version": "0.0.0-x2762204eaf5970252cd01b1d38107a11b515b0c3",
-  "server": "git://github.com/pierskarsenbarg/storage"
-}

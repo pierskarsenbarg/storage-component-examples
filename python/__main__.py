@@ -1,6 +1,7 @@
 import pulumi
 from pulumi_azure_native import resources
 import pierskarsenbarg_storage as storage
+import pierskarsenbarg_pulumi_kubeconfig as kc
 
 resource_group = resources.ResourceGroup("resource_group")
 

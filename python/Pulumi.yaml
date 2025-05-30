@@ -6,6 +6,4 @@ runtime:
     toolchain: pip
     virtualenv: venv
 packages:
-  storage: 
-    source: github.com/pierskarsenbarg/storage-components
-    version: 2762204
+  storage: github.com/pierskarsenbarg/storage@0.0.0-xd3bda98cf191886f1d51351a3e10621c5b858bb6

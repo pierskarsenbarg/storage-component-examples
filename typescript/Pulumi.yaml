@@ -5,6 +5,4 @@ runtime:
   options:
     packagemanager: npm
 packages:
-  storage: 
-    source: github.com/pierskarsenbarg/storage
-    version: 2762204
+  storage: github.com/pierskarsenbarg/storage@0.0.0-xf4e0b3c0cd85133ca11bc13e26b425dce33ce581
